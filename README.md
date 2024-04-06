@@ -1,5 +1,59 @@
-# Vesak-Lantern
-සුභ වෙසක් මංගල්‍යය වේවා!
+# Vesak Lantern
+
+This project is a simple webpage showcasing a Vesak lantern scene using HTML and CSS. It creates a visually appealing animation with a lantern, stars, and planets, likely intended for a webpage related to the Vesak festival, a significant holiday in Buddhism.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Demo
+
+You can view a live demo of the Vesak Lantern webpage [here](#).
+
+## Features
+
+- Responsive design
+- Animated scene with a glowing halo, lantern, stars, and planets
+- Visually appealing color scheme and animations
+
+## Installation
+
+To run the Vesak Lantern webpage locally, follow these steps:
+
+1. Clone this repository to your local machine:
+
+    ```bash
+    git clone https://github.com/gmpsankalpa/Vesak-Lantern.git
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd vesak-lantern
+
+3. Open the `index.html` file in your web browser.
+
+## Usage
+
+You can use this project as a template for creating your own Vesak-themed webpages or for learning purposes. Feel free to customize the HTML and CSS code to suit your needs.
+
+## Contributing
+
+Contributions to the Vesak Lantern webpage are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch: `git checkout -b feature`
+3. Make your changes and commit them: `git commit -am 'Add new feature'`
+4. Push to the branch: `git push origin feature`
+5. Submit a pull request.
+
+## License
+
+This project is licensed under the [MIT](LICENSE) License.
 
 ---
 
